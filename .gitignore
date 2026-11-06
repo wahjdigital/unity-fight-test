@@ -1,0 +1,12 @@
+Library/
+Temp/
+Logs/
+obj/
+Builds/
+UserSettings/
+*.log
+.DS_Store
+
+# Mixamo characters and moves may not be shared as files: fetch them yourself (see README)
+Assets/Resources/Units/
+Assets/Resources/Units.meta
